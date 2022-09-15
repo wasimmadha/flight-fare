@@ -62,14 +62,14 @@ Frontend to show Artifact, Experiment, Model Training, Saved Models, logs which 
 * Predict Route for User to predict 
 
 *Example Input For Prediction*: 
-    "Airline" :  "Jet Airways",
-   "Date_of_Journey" :  "9/10/2019",
-   "Source" :  "Banglore",
-   "Destination" :  "Cochin",
-   "Dep_Time" :  "20:25",
-   "Arrival_Time" :  "04:25",
-   "Duration" :  "19h",
-   "Total_Stops" : 1,
+    "Airline" :  "Jet Airways", <br/>
+   "Date_of_Journey" :  "9/10/2019",<br/>
+   "Source" :  "Banglore",<br/>
+   "Destination" :  "Cochin",<br/>
+   "Dep_Time" :  "20:25",<br/>
+   "Arrival_Time" :  "04:25",<br/>
+   "Duration" :  "19h",<br/>
+   "Total_Stops" : 1,<br/>
 
 
 
