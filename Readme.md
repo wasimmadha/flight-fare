@@ -77,4 +77,4 @@ Frontend to show Artifact, Experiment, Model Training, Saved Models, logs which 
 **Custom Logger and Exceptions** are used in the Project for better debugging purposes.
 
 ## Conclusion
-- This Project can be used in real-life by Users to predict that the Flight Price
+- This Project can be used in real-life by Users to predict the Flight Price
